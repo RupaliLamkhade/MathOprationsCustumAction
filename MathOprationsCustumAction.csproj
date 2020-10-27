@@ -12,6 +12,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Custom Template Action.docx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Zappy.SharedInterface" Version="4.5.2" />
   </ItemGroup>
 
